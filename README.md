@@ -21,7 +21,10 @@ Initial model resulted in poor accuracy of only 0.36454811692237854. After sever
 
 ![Optimization Attempt 4](/images/optAttmpt4.PNG)
 
-## Recommendation?
+## Recommendation
+
+I ran five different sigmoid models with the last one being the closest to the desired 75% using the scaled X train features, two hidden layers (1000/layer1, 500/layer2) and trained the model with 50 epochs.
 
 
- Mod 19
+
+ Module 19
