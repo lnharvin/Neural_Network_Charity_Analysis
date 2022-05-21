@@ -17,7 +17,7 @@ Initial model resulted in poor accuracy of only 0.36454811692237854. After sever
 - Optimization Attempt 1 Accuracy: 0.5349271297454834
 - Optimization Attempt 2 Accuracy: 0.7322449088096619
 - Optimization Attempt 3 Accuracy: 0.728863000869751
-- Optimization Attempt 4 Accuracy: 0.7317784428596497
+- ![Optimization Attempt 4 Accuracy: 0.7317784428596497](/images/optAttmpt4.PNG)
 
 
 ## Recommendation?
