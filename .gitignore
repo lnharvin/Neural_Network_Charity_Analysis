@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# extra work
+AlphabetSoupCharity - Copy.ipynb
+Untitled.ipynb
+
 # Distribution / packaging
 .Python
 build/
